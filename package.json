@@ -1,0 +1,15 @@
+{
+  "name": "codestructure",
+  "version": "1.0.0",
+  "description": "Code structure (i.e Backend Setpu)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascripts",
+    "backend"
+  ],
+  "author": "Sahil",
+  "license": "ISC"
+}
