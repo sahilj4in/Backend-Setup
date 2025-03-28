@@ -1,15 +1,19 @@
 {
   "name": "codestructure",
   "version": "1.0.0",
-  "description": "Code structure (i.e Backend Setpu)",
+  "description": "Code structure (i.e Backend Setup)",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascripts",
     "backend"
   ],
   "author": "Sahil",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
